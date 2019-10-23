@@ -1,0 +1,22 @@
+{
+  "name": "effi-tpl-awesome",
+  "version": "1.0.0",
+  "description": "template for awesomeness",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/effi-team/effi-tpl-awesome.git"
+  },
+  "keywords": [
+    "template",
+    "awesomeness"
+  ],
+  "author": "andrew zhang",
+  "bugs": {
+    "url": "https://github.com/effi-team/effi-tpl-awesome/issues"
+  },
+  "homepage": "https://github.com/effi-team/effi-tpl-awesome#readme"
+}
